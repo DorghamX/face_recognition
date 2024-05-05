@@ -1,1 +1,5 @@
-
+Flask
+Flask-RESTful
+opencv-python
+numpy
+face-recognition
